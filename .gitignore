@@ -1,0 +1,15 @@
+# Zig build artifacts
+zig-cache/
+.zig-cache/
+zig-pkg/
+zig-out/
+build/
+build-*/
+docgen_tmp/
+.zbscanhelper.zig
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
